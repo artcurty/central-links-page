@@ -23,7 +23,7 @@ This file is used as a basis for styling and collecting everything within the co
 
 <br/>
 
-```json
+```js
 {
   //Address of an image, to be used as an avatar
   "avatar": "",
