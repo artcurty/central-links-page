@@ -1,4 +1,4 @@
-# CENTRAL LINKS
+# CENTRAL LINKS PAGE
 
 A simple project open source, to be used as a free alternative to [Linktree](https://linktr.ee/).
 
