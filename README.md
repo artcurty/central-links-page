@@ -70,7 +70,6 @@ This file is used as a basis for styling and collecting everything within the co
   "avatarBorder": false,
   "background": "",
   "title": "@artcurty",
-  "descriptions": "Descrição",
   "links": [
     { "link": "https://www.linkedin.com/in/artcurty/", "name": "LINKEDIN" },
     { "link": "https://www.instagram.com/artcurty/", "name": "INSTAGRAM" },
