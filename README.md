@@ -1,5 +1,6 @@
 # CENTRAL LINKS PAGE
 
+
 A simple project open source, to be used as a free alternative to [Linktree](https://linktr.ee/).
 
 ## What is CentralLinksPage?
@@ -93,3 +94,4 @@ This file is used as a basis for styling and collecting everything within the co
 ```
 
 ## [See the result of this configuration](https://central-links-page.vercel.app/)
+
