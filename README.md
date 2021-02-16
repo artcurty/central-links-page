@@ -1,4 +1,5 @@
-# CENTRAL LINKS
+# CENTRAL LINKS PAGE
+
 
 A simple project open source, to be used as a free alternative to [Linktree](https://linktr.ee/).
 
@@ -70,7 +71,6 @@ This file is used as a basis for styling and collecting everything within the co
   "avatarBorder": false,
   "background": "",
   "title": "@artcurty",
-  "descriptions": "Descrição",
   "links": [
     { "link": "https://www.linkedin.com/in/artcurty/", "name": "LINKEDIN" },
     { "link": "https://www.instagram.com/artcurty/", "name": "INSTAGRAM" },
@@ -93,4 +93,5 @@ This file is used as a basis for styling and collecting everything within the co
 }
 ```
 
-## [See the result of this configuration]()
+## [See the result of this configuration](https://central-links-page.vercel.app/)
+
