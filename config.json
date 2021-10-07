@@ -1,12 +1,12 @@
 {
-  "avatar": "",
+  "avatar": "https://avatars.githubusercontent.com/u/26467331?s=460&u=cd4f787d5875e1df35e283585712beb73de63f77&v=4",
   "avatarBorder": false,
   "background": "",
-  "title": "",
+  "title": "@artcurty",
   "links": [
-    { "link": "", "name": "LINKEDIN" },
-    { "link": "", "name": "INSTAGRAM" },
-    { "link": "", "name": "GITHUB" }
+    { "link": "https://www.linkedin.com/in/artcurty/", "name": "LINKEDIN" },
+    { "link": "https://www.instagram.com/artcurty/", "name": "INSTAGRAM" },
+    { "link": "https://github.com/artcurty", "name": "GITHUB" }
   ],
   "options": {
     "colors": {
