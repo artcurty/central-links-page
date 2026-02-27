@@ -9,7 +9,7 @@ A simple project, made using [Next.js](https://nextjs.org/) and [styled-componen
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en/) 10.13 or later
+- [Node.js](https://nodejs.org/en/) 24.0 or later
 - [Yarn](https://yarnpkg.com/)
 
 <br/>
